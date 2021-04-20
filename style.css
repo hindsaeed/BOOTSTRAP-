@@ -1,0 +1,22 @@
+.mainImageTop{
+    background: url('aleks-marinkovic-rjmxne6tnNc-unsplash.jpg') center center no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.bg-dark {
+    background-color: #000102!important;
+}
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #ffffff;
+}
+.navbar-dark .navbar-brand {
+    color: #ffffff;
+}
+
+
+.myform{
+    padding: 10px;
+    border: 1px solid #eee;
+    margin: 10px;
+    background: #eee;
+}
